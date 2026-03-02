@@ -4,7 +4,6 @@ import java.util.*;
 public class Positiveornegative {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Enter number");
 		int n=sc.nextInt();
@@ -17,6 +16,7 @@ public class Positiveornegative {
 		else {
 			System.out.println("Number is Zero");
 		}
+		sc.close();
 			}
 
 }

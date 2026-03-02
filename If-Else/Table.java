@@ -3,7 +3,6 @@ public class Table {
 
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc= new Scanner(System.in);
 		System.out.println("Which table you want to print");
 		int n=sc.nextInt();
@@ -11,6 +10,7 @@ public class Table {
 			int table=n*i;
 			System.out.println(table);
 		}
+        sc.close();
 			
 }
 
