@@ -38,6 +38,7 @@ public class PerformOperation {
 			
 		
 		}
+        sc.close();
 		}
 
 }
