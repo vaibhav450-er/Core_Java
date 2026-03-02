@@ -18,4 +18,5 @@ public class Positiveornegative {
 			System.out.println("Number is Zero");
 		}
 			}
+
 }
