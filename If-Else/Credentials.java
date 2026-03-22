@@ -16,6 +16,7 @@ public class Credentials {
 		else {
 			System.out.println("Login Failed");
 		}
+        sc.close();
 }
 
 }
